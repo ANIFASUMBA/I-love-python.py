@@ -13,7 +13,9 @@ This project was built to showcase my passion for coding as a **Girl in Tech**! 
 ## 🚀 How to Run It
 
 If you want to watch the flower bloom on your own computer, follow these steps:
+
 ### Prerequisites
+
 You will need to have Python installed. You can check by running this in your terminal:
 ```bash
 python --version
