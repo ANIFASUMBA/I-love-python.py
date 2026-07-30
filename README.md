@@ -1,6 +1,7 @@
 # Anifa's Tech Flower 🌸💻
 
 A beautiful, animated, heart-shaped flower created using Python and the `turtle` graphics library. 
+
 This project was built to showcase my passion for coding as a **Girl in Tech**! It uses a mathematical loop to draw 36 overlapping red and pink hearts, creating a mesmerizing blooming animation that finishes by stamping my name in the center.
 
 ## ✨ Features
