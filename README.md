@@ -6,7 +6,7 @@ This project was built to showcase my passion for coding as a **Girl in Tech**! 
 
 ## ✨ Features
 * **Animated Drawing:** Watch the flower draw itself stroke-by-stroke in real-time.
-* **Algorithmic Art:** Uses geometry and loops to calculate perfect heart placements.
+* **Algorithmic Art:** Uses geometry and loops to calculate perfect heart placements
 * **Custom Styling:** Features a sleek black background with vibrant, attractive pink and red gradients.
 
 ## 🚀 How to Run It
